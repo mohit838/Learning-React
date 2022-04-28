@@ -1,0 +1,26 @@
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.navbar {
+  margin-top: 20px;
+  text-align: center;
+  background-color: black;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 7px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.navbar a:hover {
+  background-color: aqua;
+  color: black;
+}

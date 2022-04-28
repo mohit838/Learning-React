@@ -1,0 +1,11 @@
+.all-products {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-gap: 10px;
+}
+
+.product-container {
+  border-right: 2px solid rgb(212, 212, 212);
+  margin-right: 7px;
+  margin-left: 30px;
+}

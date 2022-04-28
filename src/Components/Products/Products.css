@@ -1,0 +1,34 @@
+.product-template {
+  display: flex;
+  margin: 0 10px;
+  padding: 10px;
+  border-bottom: 2px solid rgb(212, 212, 212);
+  flex-wrap: wrap;
+}
+
+.product-template img {
+  width: 25%;
+}
+
+.product-details {
+  margin-left: 10px;
+  text-align: left;
+}
+
+.product-details h3 {
+  color: blueviolet;
+  font-weight: 500;
+}
+
+.purchase-btn {
+  background-color: rgb(93, 238, 26);
+  width: 150px;
+  color: black;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}

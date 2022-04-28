@@ -1,0 +1,16 @@
+.single__Country {
+  text-align: center;
+  margin: 5px auto;
+  padding: 7px;
+  background-color: antiquewhite;
+  border: 2px sold black;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.flags {
+  width: 50%;
+}

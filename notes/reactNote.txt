@@ -1,0 +1,36 @@
+> Install React App
+    npx create-react-app app-name
+
+> ***Note:
+1| JSX stands for JavaScript XML. JSX expressions become regular JavaScript function calls and evaluate to JavaScript objects
+
+2| .JSX extension using with React to describe what the UI should look like. 
+
+3| .JS use for container logic component building.
+
+4| Differnence Between Props Vs State
+    >> Props
+        1/ Props are read-only.
+        2/ Props are immutable.
+        3/ Props allow you to pass data from one component to other components as an argument.
+        4/ Stateless component can have Props.
+        5/ Props make components reusable.
+    
+    >> State
+        1/ State changes can be asynchronous.
+        2/ State is mutable.
+        3/ State holds information about the components.
+        4/ State cannot be accessed by child components.
+        5/ Stateless components cannot have State.
+        
+5| Six Components 
+    1/ JSX
+    2/ Components
+    3/ Props 
+    4/ Event 
+    5/ State 
+    6/ useEffect 
+
+6| JSON can't be an object, it is string
+    1/ JSON.parse() :: Converting data to Js object.
+    2/ JSON.stringify() :: Converting data to string.
