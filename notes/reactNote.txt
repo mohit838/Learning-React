@@ -34,3 +34,9 @@
 6| JSON can't be an object, it is string
     1/ JSON.parse() :: Converting data to Js object.
     2/ JSON.stringify() :: Converting data to string.
+    
+7| The JavaScript 'for in' loops through the properties of an 'Object'
+
+8| The JavaScript 'for of' loops through the values of an iterable object.
+
+9|
